@@ -1,0 +1,22 @@
+{
+  "wheel_id": 964,
+  "structure": "umbrella",
+  "slug": "northshorekitchenrenovation-com-152",
+  "project": "kitchen-renovations-north-shore-glossary-df36546356860c57803484",
+  "parent_t1_ref": "northshorekitchenrenovation.com-008",
+  "node_role": "buffer",
+  "money_target": "northshorekitchenrenovation.com.au",
+  "primary_kw": "kitchen renovations north shore glossary",
+  "intended_url": "http://kitchen-renovations-north-shore-glossary-df36546356860c57803484.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "4b5617d2fd021baf",
+  "links": [
+    {
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/kitchen-renovations-north-shore/",
+      "anchor": "Kitchen Renovations North Shore: 2026 Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
